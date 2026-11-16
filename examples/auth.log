@@ -1,0 +1,5 @@
+2026-11-15T08:00:01Z level=warn user=operator1 ip=192.0.2.10 event=login_failed
+2026-11-15T08:00:06Z level=warn user=operator1 ip=192.0.2.10 event=login_failed
+2026-11-15T08:00:11Z level=warn user=operator1 ip=192.0.2.10 event=login_failed
+2026-11-15T08:01:00Z level=info user=operator2 ip=192.0.2.24 event=login_success
+2026-11-15T08:02:02Z level=warn user=operator3 ip=192.0.2.10 event=login_failed
